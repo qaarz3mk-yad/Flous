@@ -6,7 +6,7 @@
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"percentStatBonus": {"Gold": 100}
+		"percentStatBonus": {"Gold": 100},
 		"isNationalWonder": true,
 	}
 ]
