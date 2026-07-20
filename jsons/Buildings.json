@@ -7,7 +7,7 @@
 		"culture": 12,
 		"science": 12,
 		"percentStatBonus": {"Gold": 100},
-		"uniques": ["+100% Gold in all cities"]
+		"uniques": ["[+100]% [Gold] [in all cities]"]
 		"isNationalWonder": true,
 	}
 ]
