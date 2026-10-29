@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Aliens",
+		"name": "qaarazians",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
@@ -29,9 +29,9 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,0],
+		"uniques": ["+[100] Science"]
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
